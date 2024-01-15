@@ -1,0 +1,3 @@
+D:/c/bonus/cmake-build-debug/CMakeFiles/bonus.dir
+D:/c/bonus/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c/bonus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
